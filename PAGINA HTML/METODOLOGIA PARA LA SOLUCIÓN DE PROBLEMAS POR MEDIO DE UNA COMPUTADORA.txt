@@ -1,0 +1,50 @@
+METODOLOGIA PARA LA SOLUCIÓN DE PROBLEMAS POR MEDIO DE UNA COMPUTADORA
+1.	Anaálisis del problema
+2.	Diseño de la solución
+3.	Implementaciónde la solución planteada.
+	3.1	Elaboración de Algoritmos.
+		3.1.1	Analisis del problema.
+		3.1.2 Diseño de la Solución.
+		3.1.3 Construcción del algoritmo.
+		3.1.4 Prueba de escritorio.
+	3.2	Codificación en el algun lenguaje de programación
+	3.3	Compilación.
+	3.4	Pruebas del algoritmo
+4.	Pruebas del sistema.
+5.	Puesto en marcha.
+
+
+QUE ES UN ALGORITMO
+Conjunto de instrucciones que es necesario ejecutar ordenadamente para la obtecion de un calculo, la sesolucion de un problema
+o la realización de una secuencia ordenada de pasos, exente de ambigüedad, que permite la resolución de un problema determinado.
+
+TIPOS DE ALGORITMOS
+Cuantitavios
+cualitativos
+
+CARACTERISTICAS
+ENTRADA: Generar los datos o valores de inicio.
+DEFINIDO: Si se sigue el algoritmo dos veces o mas, se obtiene el mismo resultado.
+PRECISO: El algoritmo debe ser puntual y claro al mometno de indicar la realización de cada paso.
+FINITO; Se refiere que todo algoritmo tinen un inicio y un fin.
+SALIDA; al terminar el algoritmo, la salidad de datos tiene relación con los datos de entrada.
+
+TIPOS DE LENGUAJES ALGORITMICOS
+Graficos 
+No Graficos 
+Texto narativo
+
+DIAGRAMA DE FLUJO
+Este representa de forma gráfica a un algoritmo y muestra la solución de un problema y se puede trasladar a un lenguaje de programación.
+
+Se divide en tres:
+1. Entrada 
+2. Proceso 
+3. Salida
+
+TIPOS DE DATOS
+(Los que definen las variables en el sistema)
+Entero (Intejer)
+Real (Float)
+Char 
+String
